@@ -1,0 +1,19 @@
+{
+  "id": "./test-c.html",
+  "name": "FR Test C",
+  "short_name": "FR Test C",
+  "lang": "ru",
+  "start_url": "./test-c.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./fr-test-image.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

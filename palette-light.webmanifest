@@ -1,0 +1,19 @@
+{
+  "id": "./palette-light.html",
+  "name": "FR Light 2",
+  "short_name": "FR Light 2",
+  "lang": "ru",
+  "start_url": "./palette-light.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./palette-light-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
